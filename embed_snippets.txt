@@ -1,0 +1,23 @@
+<iframe height="800" 
+		width="100%" 
+		loading="lazy" 
+		src="https://htmlpreview.github.io/?https://raw.githubusercontent.com/shedloadofcode/animated-plotly-charts/main/outputs/animated_choropleth_yoy.html">
+</iframe>
+
+<iframe height="800" 
+		width="100%" 
+		loading="lazy" 
+		src="https://htmlpreview.github.io/?https://raw.githubusercontent.com/shedloadofcode/animated-plotly-charts/main/outputs/animated_scatter.html">
+</iframe>
+
+<iframe height="800" 
+		width="100%" 
+		loading="lazy" 
+		src="https://htmlpreview.github.io/?https://raw.githubusercontent.com/shedloadofcode/animated-plotly-charts/main/outputs/animated_line.html">
+</iframe>
+
+<iframe height="800" 
+		width="100%" 
+		loading="lazy" 
+		src="https://htmlpreview.github.io/?https://raw.githubusercontent.com/shedloadofcode/animated-plotly-charts/main/outputs/animated_bar.html">
+</iframe>
